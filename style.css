@@ -1,0 +1,20 @@
+h1{
+    background-color:red;
+    transition: 1s;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: 2s;
+    
+
+}
+
+h1:hover{
+    background-color: gray;
+    font-size: 60px;
+transition: 1s;
+font-family: 'Courier New', Courier, monospace;
+}
+.a{
+    background-color: green;
+    color: red;
+}
